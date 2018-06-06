@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EricWeeks)(type Github)(uri https://github.com/weekscorp/kicad/tree/master/KiCad_Footprints.pretty)(options "")(descr "footprints for all my projects"))
+)
